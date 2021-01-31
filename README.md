@@ -1,5 +1,4 @@
-
-[![Header](https://raw.githubusercontent.com/AnalyticsClub/<OWNER>/<OWNER>/ANCL.PNG "Header")]()
+[![Header](https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/ANCL.PNG "Header")]()
 
 ### Hi there 👋
 
