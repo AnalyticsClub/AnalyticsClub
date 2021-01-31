@@ -21,7 +21,7 @@ Nuestros talleres y proyectos son principalmente enfocados en:
 ## Contacto :rocket:
 Puedes comunicarte con nosotros por medio de nuestro correo
 
-<a href="mailto:analytics.club.contact@gmail.com"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/gmail.png" alt="Gmail" width="130" hight="100">
+<a href="mailto:analytics.club.contact@gmail.com"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/gmail.png" alt="Gmail" width="120" hight="80">
  </a> 
  
 ¡Siguenos en nuestras redes sociales, para estar pendiente de nuestras charlas y talleres!
