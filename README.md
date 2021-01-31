@@ -18,7 +18,7 @@ Nuestros talleres y proyectos son principalmente en:
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/datascience.png" alt="ds" width="180" hight="50">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/ai.png" alt="ai" width="90" hight="50">
 
-### Contacto
+### Contacto :rocket:
 Puedes comunicarte con nostros por medio de nuestro correo
 
 <a href="mailto:analytics.club.contact@gmail.com"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/gmail.png" alt="Gmail" width="130" hight="100">
