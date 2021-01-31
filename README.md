@@ -12,7 +12,11 @@ De esta manera, brindamos todas las herramientas necesarias para que nuestros mi
 En este perfil podras encontrar un repositorio para cada uno de los talleres, proyectos y charlas que iremos desarrollando.
 ### Lenguajes y Herramientas  👨‍💻 🛠:
 Nuestros talleres y proyectos son principalmente en:
+<p align="center">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/python.png" alt="python" width="120" hight="50">
+<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/rsoftware.png" alt="python" width="120" hight="50">
+<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/datascience.png" alt="python" width="120" hight="50">
+<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/ai.png" alt="python" width="120" hight="50">
 
 ### Contacto
 ¡Siguenos en nuestras redes sociales, para estar pendiente de nuestras charlas y talleres!
