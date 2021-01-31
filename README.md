@@ -9,7 +9,12 @@ Somos el Analytics Club (AC), Una red de uniandinos con gustos orientados a la a
 
 De esta manera, brindamos todas las herramientas necesarias para que nuestros miembros se puedan formar y abrir camino en el mundo de la analítica. Para lograr esto ofrecemos cursos gratuitos, talleres, charlas, eventos de networking, proyectos, entre otros para que nuestros integrantes puedan conocer a profundidad la industria analítica y tener la mejor preparación.
 
-En este perfil podras encontrar un repositorio para cada uno de los talleres, proeyctos y charlas que iremos desarrollando.
+En este perfil podras encontrar un repositorio para cada uno de los talleres, proyectos y charlas que iremos desarrollando.
+
+### Contacto
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://www.linkedin.com/company/analytics-club-ac)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/analytics.club.ac/)
 
 <!--
 **AnalyticsClub/AnalyticsClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
