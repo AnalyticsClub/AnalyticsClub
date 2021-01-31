@@ -14,15 +14,19 @@ En este perfil podras encontrar un repositorio para cada uno de los talleres, pr
 Nuestros talleres y proyectos son principalmente en:
 <p align="center">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/python.png" alt="python" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/rsoftware.png" alt="r" width="180" hight="50">
+<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/rsoftware.png" alt="r" width="150" hight="50">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/datascience.png" alt="ds" width="180" hight="50">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/ai.png" alt="ai" width="90" hight="50">
 
 ### Contacto
+Puedes comunicarte con nostros por medio de nuestro correo
+
+<a href="mailto:analytics.club.contact@gmail.com"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/gmail.png" alt="Gmail" width="130" hight="100">
+  
 ¡Siguenos en nuestras redes sociales, para estar pendiente de nuestras charlas y talleres!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Siguenos en LinkedIn"/>](https://www.linkedin.com/company/analytics-club-ac)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Siguenos en Instagram" title="Siguenos en Instagram"/>](https://www.instagram.com/analytics.club.ac/)
+<a href="https://www.linkedin.com/company/analytics-club-ac"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/linkedin.png" alt="Linkedin" width="150" hight="100">
+<a href="https://www.instagram.com/analytics.club.ac/"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/instagram.png" alt="Instagram" width="150" hight="100">
 
 <!--
 **AnalyticsClub/AnalyticsClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
