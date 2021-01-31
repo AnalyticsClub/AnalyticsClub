@@ -14,7 +14,7 @@ En este perfil podras encontrar un repositorio para cada uno de los talleres, pr
 Nuestros talleres y proyectos son principalmente en:
 <p align="center">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/python.png" alt="python" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/rsoftware.png" alt="r" width="120" hight="50">
+<img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/rsoftware.png" alt="r" width="180" hight="50">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/datascience.png" alt="ds" width="180" hight="50">
 <img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/ai.png" alt="ai" width="90" hight="50">
 
