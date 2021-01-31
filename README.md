@@ -1,6 +1,11 @@
 
 ![Header](https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/ANCL1.PNG "Header")
-### Hi there 👋
+### ¡Hola a todos! 👋
+
+Somos el Analytics Club (AC), Una red de uniandinos con gustos orientados a la analítica, enfocados en:
+* Romper la barrera entre lo académico y lo profesional
+* Generar un impacto por medio de la analítica
+* Formarse en ambitos éticos y analíticos
 
 <!--
 **AnalyticsClub/AnalyticsClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
