@@ -10,6 +10,8 @@ Somos el Analytics Club (AC), una red de uniandinos con gustos orientados a la a
 De esta manera, brindamos todas las herramientas necesarias para que nuestros miembros se puedan formar y abrir camino en el mundo de la analítica. Para lograr esto ofrecemos cursos gratuitos, talleres, charlas, eventos de networking, proyectos, entre otros para que nuestros integrantes puedan conocer a profundidad la industria analítica y tener la mejor preparación.
 
 En este perfil podras encontrar un repositorio para cada uno de los talleres, proyectos y charlas que iremos desarrollando.
+### Lenguajes y Herramientas  👨‍💻 🛠:
+
 
 ### Contacto
 ¡Siguenos en nuestras redes sociales, para estar pendiente de nuestras charlas y talleres!
