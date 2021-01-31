@@ -12,9 +12,9 @@ De esta manera, brindamos todas las herramientas necesarias para que nuestros mi
 En este perfil podras encontrar un repositorio para cada uno de los talleres, proyectos y charlas que iremos desarrollando.
 
 ### Contacto
-Siguenos en nuestras redes sociales, para estar pendiente de nuestras charlas y talleres.
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Siguenos en LinkedIn"/>](https://www.linkedin.com/company/analytics-club-ac)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Siguenos en Instagram"/>](https://www.instagram.com/analytics.club.ac/)
+Siguenos en nuestras redes sociales, para estar pendiente de nuestras charlas y talleres: 
+* [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Siguenos en LinkedIn"/>](https://www.linkedin.com/company/analytics-club-ac)
+* [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Siguenos en Instagram"/>](https://www.instagram.com/analytics.club.ac/)
 
 <!--
 **AnalyticsClub/AnalyticsClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
