@@ -28,6 +28,7 @@ Puedes comunicarte con nosotros por medio de nuestro correo
 
 <a href="https://www.linkedin.com/company/analytics-club-ac"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/linkedin.png" alt="Linkedin" width="150" hight="100">
 <a href="https://www.instagram.com/analytics.club.ac/"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/instagram.png" alt="Instagram" width="150" hight="100">
+ <a href="https://www.youtube.com/channel/UCGxUSr66sM6TYWx1ZFwibCQ/featured"><img src="https://raw.githubusercontent.com/AnalyticsClub/AnalyticsClub/master/socials/youtube.png" alt="Youtube" width="150" hight="100">
 
 <!--
 **AnalyticsClub/AnalyticsClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
